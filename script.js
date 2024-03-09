@@ -23,16 +23,7 @@ const fish = new Animal("Немо", 'риба');
 fish.introduce();
 
 
-
-
-
-// new Class
-
-
-
-
-// 
-// Class 
+// 2-га частина Class 
 // Ми робимо описа класу. Цей клас зазначає розміри тварин.
 
 class AnimalSize extends Animal {
